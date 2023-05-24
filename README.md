@@ -13,4 +13,5 @@
 ### Please ensure that your contributions align with the project's coding style and follow Flutter's best practices.
 
 ## Credit:
-### I got this inspiration from Dribble Design: https://dribbble.com/shots/20903172-Banking-Apps
+### I got this inspiration from Dribble Design: 
+https://dribbble.com/shots/20903172-Banking-Apps?utm_source=Clipboard_Shot&utm_campaign=tosangarditama&utm_content=Banking%20Apps&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=tosangarditama&utm_content=Banking%20Apps&utm_medium=Social_Share
