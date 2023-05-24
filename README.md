@@ -11,3 +11,6 @@
 ##Contributions are welcome and encouraged! If you have any suggestions, bug fixes, or additional features to propose, feel free to open an issue or submit a pull request.
 
 ##Please ensure that your contributions align with the project's coding style and follow Flutter's best practices.
+
+#Credit:
+## I got this inspiration from Dribble Design: https://dribbble.com/shots/20903172-Banking-Apps
